@@ -1,0 +1,27 @@
+body
+{
+	
+	background-image:url(rcblogo.png),url(rcblogo.png),url(rcbwebbanner.jpg);
+	background-repeat:no-repeat,no-repeat,no-repeat,no-repeat;
+	background-position:90px  60px,1020px 60px, 194px  30px;
+
+	background-color:#ff0066;
+	
+	/*background-image:url(KXIPUNJAB.jpg);
+	background-size:cover;*/
+}
+table{
+	margin:350px 5px 20px 5px ;
+	border-radius:5px;
+	background-color: #ff3300;
+
+}
+td
+{
+border-radius:8px;
+background-color:blue;
+}
+td:hover
+{
+	background-color:#ffdd00
+	}

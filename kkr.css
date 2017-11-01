@@ -1,0 +1,27 @@
+body
+{
+	
+	background-image:url(kkrlogo.png),url(kkrlogo.png),url(kkrwebbanner.jpg);
+	background-repeat:no-repeat,no-repeat,no-repeat,no-repeat;
+	background-position:135px  60px,1160px 60px, 200px  20px;
+
+	background-color:#ff0066;
+	
+	/*background-image:url(KXIPUNJAB.jpg);
+	background-size:cover;*/
+}
+table{
+	margin:350px 5px 20px 5px ;
+	border-radius:5px;
+	background-color:#8e44ad;
+
+}
+td
+{
+border-radius:8px;
+background-color:green;
+}
+td:hover
+{
+	background-color:#ffdd00
+	}

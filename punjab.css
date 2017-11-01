@@ -1,0 +1,27 @@
+body
+{
+	
+	background-image:url(kxilogo.png),url(kxilogo.png),url(kxiwebbanner.jpg);
+	background-repeat:no-repeat,no-repeat,no-repeat,no-repeat;
+	background-position:230px  60px,1000px 60px, 194px  30px;
+
+	background-color:#ff0066;
+	
+	/*background-image:url(KXIPUNJAB.jpg);
+	background-size:cover;*/
+}
+table{
+	margin:350px 5px 20px 5px ;
+	border-radius:5px;
+	background-color:blue;
+
+}
+td
+{
+border-radius:8px;
+background-color:green;
+}
+td:hover
+{
+	background-color:#ffdd00
+	}

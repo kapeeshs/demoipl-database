@@ -1,0 +1,27 @@
+body
+{
+	
+	background-image:url(mumbaiindianslogo.png),url(mumbaiindianslogo.png),url(miwebbanner.jpg);
+	background-repeat:no-repeat,no-repeat,no-repeat,no-repeat;
+	background-position:104px  60px,1130px 60px, 200px  20px;
+
+	background-color:#ff0066;
+	
+	/*background-image:url(KXIPUNJAB.jpg);
+	background-size:cover;*/
+}
+table{
+	margin:350px 5px 20px 5px ;
+	border-radius:5px;
+	background-color:blue;
+
+}
+td
+{
+border-radius:8px;
+background-color:green;
+}
+td:hover
+{
+	background-color:#ffdd00
+	}

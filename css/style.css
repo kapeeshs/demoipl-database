@@ -1,0 +1,73 @@
+body{
+	background-image:url(kkr12.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+#main-page{
+	width:500px;
+	margin:0 auto;
+	background-color:#3498db;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid black;
+	
+}
+.kpsh{
+	width:200px;
+	text-align:center;
+	
+}
+.myform{
+	width:450px;
+	margin:0 auto;
+}
+.inputvalues{
+	width:430px;
+	margin:0 auto;
+	padding:5px;
+	margin:10px;
+}
+#loginbutton{
+	margin-top:10px;
+	width:100%;
+	background:green;
+	color:white;
+	padding:5px;
+	font-size:18px;
+	font-weight:bold;
+}
+#registerbutton{
+	margin-top:10px;
+	margin-bottom:20px;
+	width:100%;
+	background:blue;
+	color:white;
+	padding:5px;
+	font-size:18px;
+	font-weight:bold;
+}
+#signupbutton{
+	margin-top:10px;
+	width:100%;
+	background:blue;
+	color:white;
+	padding:5px;
+	font-size:18px;
+	font-weight:bold;
+}
+#backbutton{
+	margin-top:10px;
+	width:35%;
+	background:green;
+	color:white;
+	padding:5px;
+	font-size:18px;
+	font-weight:bold;
+}
+
+
+
+
+
+
